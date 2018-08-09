@@ -1,4 +1,4 @@
-# Job Seach Project
+# Job Search Project
 This was a Team project to provide current job postings to the seeker along with the current weather in the city of interest.  NOTE:  At the time this project was built, New York City and San Francisco were the only cities that returned job openings (using the GitHub API).  
 
 ## What the Project does
@@ -6,7 +6,7 @@ This was a Team project to provide current job postings to the seeker along with
 * The data is retrieved via two APIs:
     * The first is to GitHub for job postings ("https://jobs.github.com/positions.json?description=").
     * The second is to the wunderground for current weather ("https://api.wunderground.com/api/".
-    
+
 ## Design & Technology
 * The design is will meet these requirements:
     * Must uses at least two APIs
