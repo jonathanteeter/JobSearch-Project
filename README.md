@@ -10,7 +10,7 @@ This was a Team project to provide current job postings to the seeker along with
     * The second is to the wunderground for current weather ("https://api.wunderground.com/api/".
 
 ## Design & Technology
-* The design is will meet these requirements:
+* The design will meet these requirements:
     * Must uses at least two APIs
     * Must use AJAX to pull data  (AJAX method to put data)
     * Must utilize at least one new library or technology that we haven’t discussed
